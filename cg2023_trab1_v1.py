@@ -27,7 +27,7 @@ transformacao_1 = np.matrix([
 vertices = np.array([
     [1.0, 0.0, 0.0],
     [0.0, 0.0, 0.0],
-    [0.0, 1.0, 0.0]])
+    [0.0, 1.0, 0.0]])  
 
 faces = np.array([
     [0,1,2]])
